@@ -11,7 +11,7 @@ url:                 https://namredla.github.io/NPSmartPlug/
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /blog
+baseurl:             'https://namredla.github.io/NPSmartPlug/'
 
 title:               Smart Plug
 
