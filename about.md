@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: ./public/img/nap.jpg
+image: /public/img/nap.jpg
 ---
 
 {% comment %}
