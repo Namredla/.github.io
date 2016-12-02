@@ -16,11 +16,11 @@ vision:
   image: ../../public/img/vision.jpg
   color: '#949667'
   description: >
-    This is where we will fill in the information on the broader vision and design thinking.
+    Articles related to the broader vision & design thinking behind this project.
 
 prototype:
   name: Prototype
   image: ../../public/img/prototype.jpg
   color: '#949667'
   description: >
-     This is where we will fill in the details of the actual implementation.
+     Articles related to the actual implementation of the functional prototype.
