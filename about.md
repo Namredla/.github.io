@@ -9,4 +9,6 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-[write something about self]
+The focus of SmartPlug is to bridge the Sharing Economy and the Internet Of Things by allowing home-owners to monetize micro-usage of electrical appliances and devices in their homes.
+
+It can also be used by families to track, understand or manage their electrical usage in the home.
