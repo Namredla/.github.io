@@ -11,17 +11,16 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
-  name: Hyde
-  image: /hydejack/public/img/hyde.jpg
+vision:
+  name: Vision
+  image: ../../public/img/vision.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    This is where we will fill in the information on the broader vision and design thinking.
 
-jekyll:
-  name: Jekyll
-  image: /hydejack/public/img/jekyll.jpg
+prototype:
+  name: Prototype
+  image: ../../public/img/prototype.jpg
   color: '#949667'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+     This is where we will fill in the details of the actual implementation.
