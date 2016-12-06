@@ -13,3 +13,7 @@ image: ../public/img/nap.jpg
 The focus of SmartPlug is to bridge the Sharing Economy and the Internet Of Things by allowing home-owners to monetize micro-usage of electrical appliances and devices in their homes.
 
 It can also be used by families to track, understand or manage their electrical usage in the home.
+
+## The Team
+
+![800x400](../public/img/suny.png "SUNY New Paltz: Team with advisor"){:.lead}
